@@ -1,0 +1,14 @@
+{
+  "name": "chromium-history-viewer",
+  "version": "0.0.0",
+  "description": "A simple cli program to read chromium history and on the console in different formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "~2.2.3"
+  }
+}
